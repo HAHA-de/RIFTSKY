@@ -2,6 +2,7 @@ body{
     padding: 0;
     margin: 0;
     height: 200vh;
+    font-family: 'Raleway', sans-serif;
     
 }
 
@@ -30,7 +31,7 @@ a{
 
 
 
-button{
+.navbtn{
     transition: 0.3s;
     border: none;
     border-radius: 25px;
@@ -41,14 +42,43 @@ button{
     font-family: 'Raleway', sans-serif;
     font-size: 15px;
     min-width: 60px;
+    
 
 }
 
-button:hover{
+.navbtn:hover{
     transition: 0.3s;
     width: 15vw;
     height: 35px;
     color: rgb(245, 146, 40);
     font-size:  23px;
 
+}
+
+.articleimg{
+
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
+
+
+.articlebtn {
+    border: none;
+    margin: 20px;
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin: auto;
+
+
+}
+
+div{
+
+    padding-top: 30px;
+}
+h2{
+    margin: auto;
 }
