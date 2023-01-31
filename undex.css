@@ -30,7 +30,7 @@ a{
 
 
 button{
-    transition: 1s;
+    transition: 0.3s;
     border: none;
     border-radius: 25px;
     color: black;
@@ -42,7 +42,7 @@ button{
 }
 
 button:hover{
-    transition: 1s;
+    transition: 0.3s;
     width: 15vw;
     height: 5vh;
     color: rgb(245, 146, 40);
