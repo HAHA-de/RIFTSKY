@@ -21,7 +21,7 @@ nav{
     display: flex;
     background-color: rgb(71, 11, 168);
     padding: 10px;
-    height: 28px;
+    height: 20px;
 }
 
 a{
@@ -45,7 +45,7 @@ button{
 button:hover{
     transition: 0.3s;
     width: 15vw;
-    height: 30px;
+    height: 35px;
     color: rgb(245, 146, 40);
     font-size:  23px;
 
