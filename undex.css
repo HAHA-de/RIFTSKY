@@ -40,6 +40,8 @@ button{
     height: 20px;
     font-family: 'Raleway', sans-serif;
     font-size: 15px;
+    min-width: 60px;
+
 }
 
 button:hover{
