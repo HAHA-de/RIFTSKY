@@ -75,7 +75,7 @@ a{
 }
 
 .articlebtn:hover {
-
+    
 
     transition: 0.3s;
     height: 450px;
@@ -95,3 +95,4 @@ h2{
 
     opacity: 0;
 }
+
