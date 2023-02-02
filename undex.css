@@ -13,14 +13,21 @@ body{
 }
 
 header{
-    background-color: rgb(84, 12, 201);
+    background-color: rgb(27,69,113);
     height: 35vh;
     padding: 0;
     display: flex;
 }
+
+img{
+
+    margin: auto;
+    height: 30vh;
+    width: auto;
+}
 nav{
     display: flex;
-    background-color: rgb(71, 11, 168);
+    background-color: #133152;
     padding: 10px;
     height: 20px;
 }
@@ -36,7 +43,7 @@ a{
     border: none;
     border-radius: 25px;
     color: black;
-    background-color:rgb(145, 35, 209);
+    background-color:#2e73bd;
     width: 10vw;
     height: 20px;
     font-family: 'Raleway', sans-serif;
