@@ -14,11 +14,20 @@ body{
 
 header{
     background-color: rgb(27,69,113);
-    height: 35vh;
+    height: 45vh;
     padding: 0;
-    display: flex;
 }
 
+.hdiv{
+
+    display: flex;
+}
+.hh1{
+
+    margin: auto;
+    color: white;
+    font-size: 3vw;
+}
 img{
 
     margin: auto;
