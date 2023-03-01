@@ -1,0 +1,2 @@
+#282828 lighter black
+rgb(32, 32, 32) darker black
